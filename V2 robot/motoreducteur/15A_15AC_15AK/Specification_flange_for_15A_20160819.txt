@@ -1,0 +1,14 @@
+
+Gearhead 15A requires also a specific flange, as per combination with following motors:
+
+
+1516A/B...SR and 1524A/B...SR
+please add 3D - file name: 15A_flange_a
+
+1624A/B...S, 1717A/B...SR, 1724A/B...SR and AM1524...-70
+please add 3D - file name: 15A_flange_b
+
+
+(c) Copyright 2016, DR.FRITZ FAULHABER GMBH & CO.KG.
+All rights reserved.
+
